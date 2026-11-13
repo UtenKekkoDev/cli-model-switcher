@@ -13,7 +13,7 @@ After pushing the repository, publish it from GitHub:
 The demo URL should become:
 
 ```text
-https://yuxuansun123.github.io/cli-model-switcher/
+https://utenkekkodev.github.io/cli-model-switcher/
 ```
 
 Use that URL in hackathon or competition forms.
