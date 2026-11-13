@@ -4,7 +4,7 @@
 
 **Language:** English | [Deutsch](docs/README.de.md) | [Français](docs/README.fr.md) | [Italiano](docs/README.it.md) | [日本語](docs/README.ja.md) | [简体中文](docs/README.zh-CN.md) | [繁體中文](docs/README.zh-TW.md)
 
-**Project Links:** [Demo Page](https://yuxuansun123.github.io/cli-model-switcher/) | [Changelog](CHANGELOG.md) | [Release Checklist](docs/RELEASE_CHECKLIST.md) | [Releases](https://github.com/UtenKekkoDev/cli-model-switcher/releases)
+**Project Links:** [Demo Page](https://utenkekkodev.github.io/cli-model-switcher/) | [Changelog](CHANGELOG.md) | [Release Checklist](docs/RELEASE_CHECKLIST.md) | [Releases](https://github.com/UtenKekkoDev/cli-model-switcher/releases)
 
 [![CI](https://github.com/UtenKekkoDev/cli-model-switcher/actions/workflows/ci.yml/badge.svg)](https://github.com/UtenKekkoDev/cli-model-switcher/actions/workflows/ci.yml)
 
@@ -17,7 +17,7 @@ The current design was compared against [LLM](https://github.com/simonw/llm), [A
 The static demo site lives in `docs/` and can be published with GitHub Pages from the `main` branch and `/docs` folder:
 
 ```text
-https://yuxuansun123.github.io/cli-model-switcher/
+https://utenkekkodev.github.io/cli-model-switcher/
 ```
 
 See [Demo Page Setup](docs/DEMO_PAGE.md) for the exact GitHub Pages steps.
